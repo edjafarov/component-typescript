@@ -1,4 +1,4 @@
-component-jsx
+component-typescript
 =============
 
-component plugin for JSXtransformation
+component plugin for typescript
